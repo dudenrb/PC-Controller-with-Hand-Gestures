@@ -10,9 +10,10 @@
 
  # Features
 
-SCREEN BRIGHTNESS
-https://github.com/user-attachments/assets/1f0f3d09-703d-4a05-98b1-dc5cf4741fec
 
-SCROLLING
-https://github.com/user-attachments/assets/b7c09911-e7c0-4be0-b1ed-1e135fbefef7
+https://github.com/user-attachments/assets/dae4a049-025e-4dbf-99f1-f883f3281a70
+
+
+
+https://github.com/user-attachments/assets/758a8780-f8fa-412d-ab5b-974a0f547175
 
