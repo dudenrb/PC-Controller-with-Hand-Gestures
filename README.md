@@ -8,5 +8,10 @@
  potential for widespread applications in industries such as gaming, virtual reality, healthcare,
  and robotics.
 
- #Features
- 
+ # Features
+
+https://github.com/user-attachments/assets/1f0f3d09-703d-4a05-98b1-dc5cf4741fec
+
+
+https://github.com/user-attachments/assets/b7c09911-e7c0-4be0-b1ed-1e135fbefef7
+
