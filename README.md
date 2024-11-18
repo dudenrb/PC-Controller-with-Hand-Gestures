@@ -46,11 +46,11 @@ https://github.com/user-attachments/assets/135cfb3a-0fe4-4ecc-861e-69a67eb6a687
 
 
 
+## Collaborators
 
-# Collaborators
+| Name              | GitHub                      |
+|-------------------|-----------------------------|
+| Nikhil Raj        | [GitHub](#)                 |
+| Shubham Mittal    | [GitHub](#)                 |
+| Tanisha Bansal    | [GitHub](#)                 | 
 
-Nikhil Raj
-
-Shubham Mittal
-
-Tanisha Bansal 
