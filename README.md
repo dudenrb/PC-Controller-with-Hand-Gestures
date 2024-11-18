@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/135cfb3a-0fe4-4ecc-861e-69a67eb6a687
 
 | Name              | GitHub                      |
 |-------------------|-----------------------------|
-| Nikhil Raj        | [GitHub](#)                 |
+| Nikhil Raj        | [Linkdin](https://www.linkedin.com/in/nikhil811307/)                 |
 | Shubham Mittal    | [GitHub](#)                 |
 | Tanisha Bansal    | [GitHub](#)                 | 
 
